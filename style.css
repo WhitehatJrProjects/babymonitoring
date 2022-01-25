@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-position: center;
+font-family: 'Bangers', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Shizuru', cursive;
+font-family: 'Staatliches', cursive;
+font-size: 33px;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+    margin-top: 100px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
